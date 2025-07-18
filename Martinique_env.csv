@@ -1,0 +1,97 @@
+spl_id;spl_name;spl_longitude;spl_latitude;spl_depth;spl_habitat;spl_area;spl_taxa_weight;spl_methodology;spl_GIS;spl_time;spl_obs;spl_management;coral_cover;macroalgae_cover;turf_cover;other_cover;geomorphology;exposure
+PB_1;Pointe_Borgnesse;-60.8999427;14.4483652;10.3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2001_11_24;YB;No-take area;33;16.7;39.9;10.6;fringing_reef;saint_lucia_channel
+PB_2;Pointe_Borgnesse;-60.8999427;14.4483652;10.3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2002_06_19;YB;No-take area;34.8;36.2;13.9;15.1;fringing_reef;saint_lucia_channel
+PB_3;Pointe_Borgnesse;-60.8999427;14.4483652;10.3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2002_11_30;YB;No-take area;33.3;21.3;29;16.5;fringing_reef;saint_lucia_channel
+PB_4;Pointe_Borgnesse;-60.8999427;14.4483652;10.3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2003_06_29;YB;No-take area;39.9;19.2;29.8;11;fringing_reef;saint_lucia_channel
+PB_5;Pointe_Borgnesse;-60.8999427;14.4483652;10.3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2003_11_23;YB;No-take area;38;25.2;26.3;10.4;fringing_reef;saint_lucia_channel
+PB_6;Pointe_Borgnesse;-60.8999427;14.4483652;10.3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2004_07_04;YB;No-take area;31.6;31;25.6;11.7;fringing_reef;saint_lucia_channel
+PB_7;Pointe_Borgnesse;-60.8999427;14.4483652;10.3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2004_11_28;YB;No-take area;30.7;29.4;30.6;9.3;fringing_reef;saint_lucia_channel
+PB_8;Pointe_Borgnesse;-60.8999427;14.4483652;10.3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2005_07_11;CP;No-take area;30.2;26.1;29.7;14;fringing_reef;saint_lucia_channel
+PB_9;Pointe_Borgnesse;-60.8999427;14.4483652;10.3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2005_12_04;CP;No-take area;31.6;22.3;39.8;6.3;fringing_reef;saint_lucia_channel
+PB_10;Pointe_Borgnesse;-60.8999427;14.4483652;10.3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2006_07_15;CP;Fishing;23.2;36.7;30.9;9.1;fringing_reef;saint_lucia_channel
+PB_11;Pointe_Borgnesse;-60.8999427;14.4483652;10.3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2006_12_03;CP;No-take area;22.7;34.7;34.6;8;fringing_reef;saint_lucia_channel
+PB_12;Pointe_Borgnesse;-60.8999427;14.4483652;10.3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2007_07_15;CP;Fishing;17.4;45.8;23.8;13.1;fringing_reef;saint_lucia_channel
+PB_13;Pointe_Borgnesse;-60.8999427;14.4483652;10.3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2007_12_08;YR;No-take area;16.4;52.5;22;9;fringing_reef;saint_lucia_channel
+PB_14;Pointe_Borgnesse;-60.8999427;14.4483652;10.3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2008_07_24;YR;No-take area;17.1;50.3;19.4;13.2;fringing_reef;saint_lucia_channel
+PB_15;Pointe_Borgnesse;-60.8999427;14.4483652;10.3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2008_12_08;YR;Fishing;18.7;45.7;17;18.7;fringing_reef;saint_lucia_channel
+PB_16;Pointe_Borgnesse;-60.8999427;14.4483652;10.3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2009_04_13;YR;No-take area;15.5;46.1;19.8;18.7;fringing_reef;saint_lucia_channel
+PB_17;Pointe_Borgnesse;-60.8999427;14.4483652;10.3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2009_11_02;YR;Fishing;19.6;42.4;22.8;15.2;fringing_reef;saint_lucia_channel
+PB_18;Pointe_Borgnesse;-60.8999427;14.4483652;10.3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2010_07_10;PD;No-take area;15.3;47.5;19.4;17.8;fringing_reef;saint_lucia_channel
+PB_19;Pointe_Borgnesse;-60.8999427;14.4483652;10.3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2010_12_09;PD;No-take area;14.9;44.3;27.5;13.4;fringing_reef;saint_lucia_channel
+PB_20;Pointe_Borgnesse;-60.8999427;14.4483652;10.3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2013_01_16;ET;No-take area;14.1;34.1;38;13.9;fringing_reef;saint_lucia_channel
+PB_21;Pointe_Borgnesse;-60.8999427;14.4483652;10.3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2013_03_22;ET;No-take area;16.1;38.3;27.9;5.5;fringing_reef;saint_lucia_channel
+PB_22;Pointe_Borgnesse;-60.8999427;14.4483652;10.3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2013_11_27;ET;No-take area;14;44.5;24.6;16.9;fringing_reef;saint_lucia_channel
+PB_23;Pointe_Borgnesse;-60.8999427;14.4483652;10.3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2016_12_13;ET;Fishing ?;14.7;44.8;18.8;20.8;fringing_reef;saint_lucia_channel
+PB_24;Pointe_Borgnesse;-60.8999427;14.4483652;10.3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2019_05_21;ET;Fishing ?;13;35.7;26.8;24.5;fringing_reef;saint_lucia_channel
+FB_1;Fond_Boucher;-61.1572354;14.6573616;8.5;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2002_11_29;YB;Fishing;19.3;7.6;42.8;30.3;rocky_reef;leeward
+FB_2;Fond_Boucher;-61.1572354;14.6573616;8.5;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2003_06_01;YB;Fishing;18.5;7.3;55.1;19;rocky_reef;leeward
+FB_3;Fond_Boucher;-61.1572354;14.6573616;8.5;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2003_11_21;YB;Fishing;20.2;8.9;51;19.9;rocky_reef;leeward
+FB_4;Fond_Boucher;-61.1572354;14.6573616;8.5;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2004_07_03;YB;Fishing;22.8;11.8;42.6;22.7;rocky_reef;leeward
+FB_5;Fond_Boucher;-61.1572354;14.6573616;8.5;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2004_11_27;YB;Fishing;26.3;2.5;51.7;19.5;rocky_reef;leeward
+FB_6;Fond_Boucher;-61.1572354;14.6573616;8.5;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2004_11_28;YB;Fishing;26.3;2.5;51.7;19.5;rocky_reef;leeward
+FB_7;Fond_Boucher;-61.1572354;14.6573616;8.5;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2005_07_09;CP;Fishing;27.8;7.9;44.9;19.4;rocky_reef;leeward
+FB_8;Fond_Boucher;-61.1572354;14.6573616;8.5;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2005_12_03;CP;Fishing;21;8.9;55.2;15;rocky_reef;leeward
+FB_9;Fond_Boucher;-61.1572354;14.6573616;8.5;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2006_07_14;CP;Fishing;14.8;8.5;62;14.7;rocky_reef;leeward
+FB_10;Fond_Boucher;-61.1572354;14.6573616;8.5;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2006_12_02;CP;Fishing;15.3;7.1;63;14.5;rocky_reef;leeward
+FB_11;Fond_Boucher;-61.1572354;14.6573616;8.5;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2007_07_14;CP;Fishing;14.7;14.8;47.4;23.1;rocky_reef;leeward
+FB_12;Fond_Boucher;-61.1572354;14.6573616;8.5;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2007_12_12;YR;Fishing;16.7;19.6;28.3;35.4;rocky_reef;leeward
+FB_13;Fond_Boucher;-61.1572354;14.6573616;8.5;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2008_07_21;YR;Fishing;11.5;22.7;43.9;21.8;rocky_reef;leeward
+FB_14;Fond_Boucher;-61.1572354;14.6573616;8.5;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2008_12_04;YR;Fishing;14.3;24.2;18.9;42.6;rocky_reef;leeward
+FB_15;Fond_Boucher;-61.1572354;14.6573616;8.5;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2009_05_01;YR;Fishing;13.4;15.3;31;40.3;rocky_reef;leeward
+FB_16;Fond_Boucher;-61.1572354;14.6573616;8.5;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2009_11_18;YR;Fishing;10;25.5;34.1;30.4;rocky_reef;leeward
+FB_17;Fond_Boucher;-61.1572354;14.6573616;8.5;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2010_07_09;PD;Fishing;17.3;5.7;45.3;31.8;rocky_reef;leeward
+FB_18;Fond_Boucher;-61.1572354;14.6573616;8.5;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2010_11_25;PD;Fishing;15.4;8.7;33;42.8;rocky_reef;leeward
+FB_19;Fond_Boucher;-61.1572354;14.6573616;8.5;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2013_01_18;ET;Fishing;14;7.1;26.7;18;rocky_reef;leeward
+FB_20;Fond_Boucher;-61.1572354;14.6573616;8.5;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2013_02_14;ET;Fishing;12.1;3.1;21.5;17;rocky_reef;leeward
+FB_21;Fond_Boucher;-61.1572354;14.6573616;8.5;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2013_11_19;ET;Fishing;13.4;3.7;26.8;19.1;rocky_reef;leeward
+FB_22;Fond_Boucher;-61.1572354;14.6573616;8.5;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2016_11_23;ET;Fishing;14.6;12.8;10.8;40;rocky_reef;leeward
+FB_23;Fond_Boucher;-61.1572354;14.6573616;8.5;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2019_05_17;ET;Fishing;15.3;17.9;27.6;39.2;rocky_reef;leeward
+IR_1;Ilet_a_Rats;-60.8967262;14.6842862;3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2003_11_22;YB;Fishing;30.4;22.3;25;22.2;fringing_reef;atlantic
+IR_2;Ilet_a_Rats;-60.8967262;14.6842862;3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2004_07_10;G;Fishing;29;9.1;41;20.9;fringing_reef;atlantic
+IR_3;Ilet_a_Rats;-60.8967262;14.6842862;3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2004_12_06;CP;Fishing;29;13.6;37.8;19.6;fringing_reef;atlantic
+IR_4;Ilet_a_Rats;-60.8967262;14.6842862;3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2005_06_25;CP;Fishing;29.4;22;28.8;19.7;fringing_reef;atlantic
+IR_5;Ilet_a_Rats;-60.8967262;14.6842862;3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2005_11_27;CP;Fishing;22.3;27.5;32.3;17.9;fringing_reef;atlantic
+IR_6;Ilet_a_Rats;-60.8967262;14.6842862;3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2006_07_15;CP;Fishing;17.3;16.3;40.3;25.9;fringing_reef;atlantic
+IR_7;Ilet_a_Rats;-60.8967262;14.6842862;3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2006_11_26;CP;Fishing;19.9;28.8;31.4;19.8;fringing_reef;atlantic
+IR_8;Ilet_a_Rats;-60.8967262;14.6842862;3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2007_07_07;CP;Fishing;23.9;32.8;27.8;15.4;fringing_reef;atlantic
+IR_9;Ilet_a_Rats;-60.8967262;14.6842862;3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2007_12_09;YR;Fishing;21.8;30.8;31.5;16;fringing_reef;atlantic
+IR_10;Ilet_a_Rats;-60.8967262;14.6842862;3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2008_07_25;YR;Fishing;24.3;27.9;31.1;16.6;fringing_reef;atlantic
+IR_11;Ilet_a_Rats;-60.8967262;14.6842862;3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2008_12_03;YR;Fishing;22.5;35.1;24.3;18.1;fringing_reef;atlantic
+IR_12;Ilet_a_Rats;-60.8967262;14.6842862;3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2009_04_19;YR;Fishing;19.6;31.6;31.6;17.2;fringing_reef;atlantic
+IR_13;Ilet_a_Rats;-60.8967262;14.6842862;3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2009_10_25;YR;Fishing;21;31.8;30.2;17.1;fringing_reef;atlantic
+IR_14;Ilet_a_Rats;-60.8967262;14.6842862;3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2010_07_12;PD;Fishing;23.9;33.9;27;15.1;fringing_reef;atlantic
+IR_15;Ilet_a_Rats;-60.8967262;14.6842862;3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2010_12_12;PD;Fishing;23.9;33.9;27;15.1;fringing_reef;atlantic
+IR_16;Ilet_a_Rats;-60.8967262;14.6842862;3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2014_08_27;ET;chlordecone_no-take_zone;26.3;11.6;29;14.5;fringing_reef;atlantic
+IR_17;Ilet_a_Rats;-60.8967262;14.6842862;3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2017_02_10;ET;chlordecone_no-take_zone;24.9;11.8;35;18.6;fringing_reef;atlantic
+IR_18;Ilet_a_Rats;-60.8967262;14.6842862;3;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2019_05_16;ET;chlordecone_no-take_zone;27;5.4;40;27.5;fringing_reef;atlantic
+JT_1;Jardin_Tropical;-60.9245471;14.4560211;12;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2005_07_10;CP;Fishing;51.7;2.6;31;14.7;fringing_reef;saint_lucia_channel
+JT_2;Jardin_Tropical;-60.9245472;14.4560212;12;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2005_11_27;CP;Fishing;39;4.1;47;9.8;fringing_reef;saint_lucia_channel
+JT_3;Jardin_Tropical;-60.9245473;14.4560213;12;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2006_07_24;CP;Fishing;54.3;9.5;24.4;11.8;fringing_reef;saint_lucia_channel
+JT_4;Jardin_Tropical;-60.9245474;14.4560214;12;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2006_11_18;CP;Fishing;41.2;16.2;30.5;12.1;fringing_reef;saint_lucia_channel
+JT_5;Jardin_Tropical;-60.9245475;14.4560215;12;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2007_07_20;CP;Fishing;32.1;21.5;25.6;20.9;fringing_reef;saint_lucia_channel
+JT_6;Jardin_Tropical;-60.9245476;14.4560216;12;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2007_12_16;YR;Fishing;30.1;25.5;33.7;10.7;fringing_reef;saint_lucia_channel
+JT_7;Jardin_Tropical;-60.9245477;14.4560217;12;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2008_07_22;YR;Fishing;24.5;32.8;20.2;22.5;fringing_reef;saint_lucia_channel
+JT_8;Jardin_Tropical;-60.9245478;14.4560218;12;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2008_12_05;YR;Fishing;23.3;30.3;20.1;26.3;fringing_reef;saint_lucia_channel
+JT_9;Jardin_Tropical;-60.9245479;14.4560219;12;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2009_04_26;YR;Fishing;21.2;32.1;31.1;15.5;fringing_reef;saint_lucia_channel
+JT_10;Jardin_Tropical;-60.924548;14.456022;12;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2009_10_30;YR;Fishing;27.6;26.8;36.2;9.4;fringing_reef;saint_lucia_channel
+JT_11;Jardin_Tropical;-60.9245481;14.4560221;12;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2010_07_17;PD;Fishing;23.2;28.4;34.5;13.9;fringing_reef;saint_lucia_channel
+JT_12;Jardin_Tropical;-60.9245482;14.4560222;12;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2010_11_24;PD;Fishing;25.9;2.4;60.3;11.4;fringing_reef;saint_lucia_channel
+JT_13;Jardin_Tropical;-60.9245483;14.4560223;12;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2013_01_16;ET;Fishing;19.7;2.7;45.4;4.9;fringing_reef;saint_lucia_channel
+JT_14;Jardin_Tropical;-60.9245484;14.4560224;12;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2013_03_22;ET;Fishing;21.9;2.2;30.8;7.2;fringing_reef;saint_lucia_channel
+JT_15;Jardin_Tropical;-60.9245485;14.4560225;12;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2013_11_26;ET;Fishing;25.1;0.7;36;15.7;fringing_reef;saint_lucia_channel
+JT_16;Jardin_Tropical;-60.9245486;14.4560226;12;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2016_12_13;ET;Fishing;20.1;2.9;22.8;17.4;fringing_reef;saint_lucia_channel
+JT_17;Jardin_Tropical;-60.9245487;14.4560227;12;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2019_05_21;ET;Fishing;29.1;16.2;29.7;24.9;fringing_reef;saint_lucia_channel
+PJT_1;Plaeau_Jardin_Tropical;-60.9245488;14.4560228;6;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2013_11_26;ET;Fishing;30.7;0.05;33.4;35.9;fringing_reef;saint_lucia_channel
+CO_1;Caye_Olbian;-61.018325;14.4641336;12;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2013_01_17;ET;Fishing;39;2.9;38.1;6.5;fringing_reef;saint_lucia_channel
+CO_2;Caye_Olbian;-61.018325;14.4641336;12;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2013_02_08;ET;Fishing;43.1;1.9;22.5;2.5;fringing_reef;saint_lucia_channel
+CO_3;Caye_Olbian;-61.018325;14.4641336;12;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2013_11_23;ET;Fishing;57.7;2.7;20.8;3;fringing_reef;saint_lucia_channel
+CO_4;Caye_Olbian;-61.018325;14.4641336;12;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2016_12_12;ET;Fishing;49.1;5.1;8.3;21.9;fringing_reef;saint_lucia_channel
+CO_5;Caye_Olbian;-61.018325;14.4641336;12;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2019_05_20;ET;Fishing;57.1;10.1;14.5;18.2;fringing_reef;saint_lucia_channel
+CS_1;Cap_Salomon;-61.099828;14.5066063;10;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2013_11_22;ET;Fishing;19.5;1.9;17.7;60.9;rocky_reef;leeward
+CEN_1;Cap_Enrage_Nord;-61.1525502;14.649317;10;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2013_11_19;ET;Fishing;18.7;7.1;20.4;53.8;rocky_reef;leeward
+CP_1;Caye_Pothiau;-61.1835202;14.7005524;10;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2013_11_18;ET;Fishing;3.9;1.3;9.9;84.9;rocky_reef;leeward
+CG_1;Corps_de_Garde;-60.9379939;14.4560041;10;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2013_11_25;ET;Fishing;30.2;1.2;33.1;35.5;fringing_reef;saint_lucia_channel
+FBE_1;Fond_Bellemare;-61.1237875;14.6292488;10;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2013_11_20;ET;No-take area;23;2.4;21.3;53.3;rocky_reef;leeward
+GC_1;Grande_Caye;-60.9209725;14.4574805;10;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2013_11_27;ET;Fishing;47;0.4;27.7;24.9;fringing_reef;saint_lucia_channel
+RD_1;Rocher_du_Diamant;-61.03979;14.4446852;10;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2013_11_23;ET;Fishing;28.7;2;16.3;53;fringing_reef;saint_lucia_channel
+TB_1;Trou_Bleu;-61.1990318;14.7663239;10;Coral_reef;300m2;Biomass (g/300m2);Belt transect;;2013_11_17;ET;Fishing;31.9;0.03;12.7;55.4;rocky_reef;leeward

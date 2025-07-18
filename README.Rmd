@@ -1,0 +1,74 @@
+---
+title: "Readme"
+author: "Jean-Baptiste Juhel"
+date: "2025-07-18"
+output: html_document
+---
+# R scripts and data for the article  
+**"Biodiversity mediates the effects of socio-environmental factors on coastal fish biomass: a structural equation modeling approach in three ecoregions"**
+
+This repository contains the R scripts and datasets used to reproduce the analyses presented in the following scientific article:
+
+> David Mouillot, Silvia de Juan, Ewan Trégarot, Sébastien Villéger, Gema Casal,
+Cindy C. Cornet, Jean-Philippe Maréchal, Francesc Maynou, Erik Meesters, Rémy Simide,
+Matthijs van der Geest, Jean-Baptiste Juhel (2025).  
+> *Biodiversity mediates the effects of socio-environmental factors on coastal fish biomass: a structural equation modeling approach in three ecoregions.*  
+> *Marine Environmental Research*, 2025, 107351.  
+> https://doi.org/10.1016/j.marenvres.2025.107351
+
+---
+
+## Repository contents
+
+- `Script_SEM_Mouillot_et_al_2025.R` – Main R script for data cleaning, structural equation modeling (SEM), and visualization.
+- `Bonaire_data.csv` – Dataset collected in Bonaire, containing fish biomass data, biodiversity indices, and environmental variables.
+- `France_data.csv` – Dataset collected in Mediterranean France, containing fish biomass data, biodiversity indices, and environmental variables.
+- `Ireland_data.csv` – Dataset collected in Ireland, containing fish biomass data, biodiversity indices, and environmental variables.
+- `Martinique_data.csv` – Dataset collected in Martinique, containing fish biomass data, biodiversity indices.
+- `Martinique_env.csv` – Dataset collected in Martinique, containing environmental variables.
+- `Spain_data.csv` – Dataset collected in Spain, containing fish biomass data, biodiversity indices, and environmental variables.
+- `README.md` – This file.
+
+---
+
+## How to reproduce the analyses
+
+### 1. Requirements
+
+The analyses were performed using **R (≥ 4.2.0)**. The following R packages are required:
+
+```r
+
+### 1. Requirements
+
+The analyses were performed in **R (≥ 4.2.0)**. The following packages are required:
+
+#### Structural Equation Modeling (SEM)
+- `piecewiseSEM` – Piecewise structural equation modeling  
+- `lavaan` – Standard SEM modeling  
+- `semPlot` – SEM visualization  
+- `semEff` – Standardized effect sizes for SEM models
+
+#### Model fitting and inference
+- `MASS` – Statistical functions and datasets  
+- `MuMIn` – Model selection and multi-model inference  
+- `multcompView` – Post-hoc comparisons and multiple testing  
+- `car` – Diagnostic tools for regression models  
+- `visreg` – Visualization of regression model effects
+
+#### Data wrangling and plotting
+- `dplyr` – Data manipulation  
+- `ggplot2` – Graphics and plots  
+- `patchwork` – Combining multiple `ggplot2` plots
+
+#### Other
+- `DiagrammeR` – Graph and diagram generation
+
+Install all required packages with:
+
+```r
+install.packages(c(
+  "piecewiseSEM", "lavaan", "semPlot", "semEff",
+  "MASS", "MuMIn", "multcompView", "car", "visreg",
+  "dplyr", "ggplot2", "patchwork", "DiagrammeR"
+))
